@@ -1,9 +1,9 @@
-npm init -y  (create first ependency)
+install in api folder---
+npm init -y  (create first dependency)
 npm i express
 node app.js
-npm install console-ninja --save-dev
-console-ninja node --watch app.js
-
+console-ninja node --watch app.js  (run the app)
+http://localhost:8800/api/test  (1st test)
 
 
 
